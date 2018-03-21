@@ -3,7 +3,7 @@ Espike is an open home automation switch to be used with Mqtt or other protocols
 
 The idea it to have push bottuns that send signals to MQTT, RED-Node or other controller, and the LEDs can be used independly to show status or any feedback from the controller
 
-
+![PCB](https://github.com/Henriquegravina/Espike/raw/master/espike_wallplate_pcb.PNG)
 
 # Software
 This project is hardware only, all the software used is from Espruna ( https://github.com/xoseperez/espurna )
@@ -13,4 +13,4 @@ The Hardware could be built with simple tools, PCB cand be order direct on EasyE
 
 
 ![Wall Plate monted](https://github.com/Henriquegravina/Espike/raw/master/20180320_223557.jpg)
-
+![Wall Plate monted](https://github.com/Henriquegravina/Espike/raw/master/espike_wallplate_sch.PNG)
